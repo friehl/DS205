@@ -9,7 +9,7 @@
             "longitude": -118.37913549475951
         }
     }, 
-    "total": 36015, 
+    "total": 49986, 
     "businesses": [
         {
             "is_claimed": false, 
@@ -64,7 +64,7 @@
             "rating": 4.5, 
             "mobile_url": "http://m.yelp.com/biz/lady-chocolatt-los-angeles", 
             "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 165, 
+            "review_count": 166, 
             "name": "Lady Chocolatt", 
             "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
             "url": "http://www.yelp.com/biz/lady-chocolatt-los-angeles", 
@@ -163,14 +163,14 @@
             "rating": 4.5, 
             "mobile_url": "http://m.yelp.com/biz/churros-calientes-los-angeles", 
             "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 881, 
+            "review_count": 883, 
             "name": "Churros Calientes", 
             "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
             "url": "http://www.yelp.com/biz/churros-calientes-los-angeles", 
             "is_closed": false, 
             "id": "churros-calientes-los-angeles", 
             "phone": "4242483890", 
-            "snippet_text": "I LOVE THIS PLACE!!!\n\nSo cute for dessert for a romantic date night or even just going to grab some churros with friends. \n\nThe churro's aren't too sweet...", 
+            "snippet_text": "Churros! The magical potion that cures all. Sad? Churro. Happy? Churro. Sore Throat? 2 Churros.\n\nSeriously churros are amazing and they are wonderful at any...", 
             "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/cskZQhAjNnNZqRJhmWGI5w/ms.jpg", 
             "categories": [
                 [
@@ -190,7 +190,7 @@
             "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
             "menu_provider": "single_platform", 
             "menu_date_updated": 1400067469, 
-            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/To7vvhVvScict6vS_4EJHg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/NjD_OhfyxyFaORDaR5pmlg/ms.jpg", 
             "location": {
                 "city": "Los Angeles", 
                 "display_address": [
@@ -314,6 +314,58 @@
         }, 
         {
             "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/clusi-batusi-los-angeles", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 204, 
+            "name": "Clusi Batusi", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/clusi-batusi-los-angeles", 
+            "is_closed": true, 
+            "id": "clusi-batusi-los-angeles", 
+            "phone": "3104777707", 
+            "snippet_text": "omfg the caprese panini doe.\n\nBring back Clusi!!!", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/zdZG_7mtZtQQXIqDieaRug/ms.jpg", 
+            "categories": [
+                [
+                    "Italian", 
+                    "italian"
+                ], 
+                [
+                    "Pizza", 
+                    "pizza"
+                ]
+            ], 
+            "display_phone": "+1-310-477-7707", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "yelp", 
+            "menu_date_updated": 1396723124, 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/L40WsoULxyzXQG1rW51wrg/ms.jpg", 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "2047 Sawtelle Blvd", 
+                    "Sawtelle", 
+                    "Los Angeles, CA 90025"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Sawtelle"
+                ], 
+                "postal_code": "90025", 
+                "country_code": "US", 
+                "address": [
+                    "2047 Sawtelle Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0395699, 
+                    "longitude": -118.4428787
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
             "rating": 4.0, 
             "mobile_url": "http://m.yelp.com/biz/native-foods-cafe-los-angeles", 
             "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
@@ -374,7 +426,7 @@
             "rating": 4.5, 
             "mobile_url": "http://m.yelp.com/biz/sushi-tsujita-los-angeles", 
             "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 47, 
+            "review_count": 48, 
             "name": "Sushi Tsujita", 
             "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
             "url": "http://www.yelp.com/biz/sushi-tsujita-los-angeles", 
@@ -626,7 +678,7 @@
             "rating": 4.0, 
             "mobile_url": "http://m.yelp.com/biz/hide-sushi-japanese-restaurant-los-angeles", 
             "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 1074, 
+            "review_count": 1075, 
             "name": "Hide Sushi Japanese Restaurant", 
             "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
             "url": "http://www.yelp.com/biz/hide-sushi-japanese-restaurant-los-angeles", 
@@ -682,7 +734,7 @@
             "rating": 4.0, 
             "mobile_url": "http://m.yelp.com/biz/bella-pita-los-angeles", 
             "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 466, 
+            "review_count": 467, 
             "name": "Bella Pita", 
             "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
             "url": "http://www.yelp.com/biz/bella-pita-los-angeles", 
@@ -895,7 +947,7 @@
             "rating": 4.0, 
             "mobile_url": "http://m.yelp.com/biz/seoul-sausage-company-los-angeles-2", 
             "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 935, 
+            "review_count": 936, 
             "name": "Seoul Sausage Company", 
             "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
             "url": "http://www.yelp.com/biz/seoul-sausage-company-los-angeles-2", 
@@ -938,56 +990,6 @@
                 "coordinate": {
                     "latitude": 34.039517, 
                     "longitude": -118.443003
-                }, 
-                "state_code": "CA"
-            }
-        }, 
-        {
-            "is_claimed": true, 
-            "rating": 5.0, 
-            "mobile_url": "http://m.yelp.com/biz/garage-door-doctor-torrance", 
-            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 179, 
-            "name": "Garage Door Doctor", 
-            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
-            "url": "http://www.yelp.com/biz/garage-door-doctor-torrance", 
-            "is_closed": false, 
-            "phone": "3109049425", 
-            "snippet_text": "These guys installed a new automatic garage door for us last month, and I couldn't be more satisfied with the service and product.  I worked first with Alex...", 
-            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/QrKpwlIGqipwL4HI6A6G4Q/ms.jpg", 
-            "categories": [
-                [
-                    "Contractors", 
-                    "contractors"
-                ], 
-                [
-                    "Garage Door Services", 
-                    "garage_door_services"
-                ]
-            ], 
-            "display_phone": "+1-310-904-9425", 
-            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
-            "id": "garage-door-doctor-torrance", 
-            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/z9-MlNqLcDHJqV5-el7odQ/ms.jpg", 
-            "location": {
-                "city": "Torrance", 
-                "display_address": [
-                    "18253 Van Ness Ave", 
-                    "Torrance", 
-                    "Torrance, CA 90504"
-                ], 
-                "geo_accuracy": 8.0, 
-                "neighborhoods": [
-                    "Torrance"
-                ], 
-                "postal_code": "90504", 
-                "country_code": "US", 
-                "address": [
-                    "18253 Van Ness Ave"
-                ], 
-                "coordinate": {
-                    "latitude": 33.864635, 
-                    "longitude": -118.31852
                 }, 
                 "state_code": "CA"
             }
@@ -1045,48 +1047,50 @@
         }, 
         {
             "is_claimed": true, 
-            "rating": 4.0, 
-            "mobile_url": "http://m.yelp.com/biz/fresh-corn-grill-westwood-2", 
-            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 547, 
-            "name": "Fresh Corn Grill", 
-            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-            "url": "http://www.yelp.com/biz/fresh-corn-grill-westwood-2", 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/garage-door-doctor-torrance", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 179, 
+            "name": "Garage Door Doctor", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/garage-door-doctor-torrance", 
             "is_closed": false, 
-            "id": "fresh-corn-grill-westwood-2", 
-            "phone": "3104700414", 
-            "snippet_text": "I love this place. Been here twice so far but will come back 100 more times. I tried steak tacos with side of grilled corn today. Very tasty!\nThe service...", 
-            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/N4lNtt0sfWP49DxgYOIcqg/ms.jpg", 
+            "phone": "3109049425", 
+            "snippet_text": "I am not a customer, but I wish I was. Found this listing when I was looking for garage door help in my area. Called and Alex Answered. He let me know that...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/QrKpwlIGqipwL4HI6A6G4Q/ms.jpg", 
             "categories": [
                 [
-                    "American (Traditional)", 
-                    "tradamerican"
+                    "Contractors", 
+                    "contractors"
+                ], 
+                [
+                    "Garage Door Services", 
+                    "garage_door_services"
                 ]
             ], 
-            "display_phone": "+1-310-470-0414", 
-            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-            "menu_provider": "single_platform", 
-            "menu_date_updated": 1387629083, 
-            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/Ru29hNIQXxSDWjLAG4Nasw/ms.jpg", 
+            "display_phone": "+1-310-904-9425", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "garage-door-doctor-torrance", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/fuQvX7BlxNipVOI-HEQvqw/ms.jpg", 
             "location": {
-                "city": "Westwood", 
+                "city": "Torrance", 
                 "display_address": [
-                    "1510 Westwood Blvd", 
-                    "Westwood", 
-                    "Westwood, CA 90024"
+                    "18253 Van Ness Ave", 
+                    "Torrance", 
+                    "Torrance, CA 90504"
                 ], 
                 "geo_accuracy": 8.0, 
                 "neighborhoods": [
-                    "Westwood"
+                    "Torrance"
                 ], 
-                "postal_code": "90024", 
+                "postal_code": "90504", 
                 "country_code": "US", 
                 "address": [
-                    "1510 Westwood Blvd"
+                    "18253 Van Ness Ave"
                 ], 
                 "coordinate": {
-                    "latitude": 34.053825, 
-                    "longitude": -118.440063
+                    "latitude": 33.864635, 
+                    "longitude": -118.31852
                 }, 
                 "state_code": "CA"
             }

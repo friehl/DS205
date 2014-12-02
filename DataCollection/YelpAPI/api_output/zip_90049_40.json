@@ -9,110 +9,53 @@
             "longitude": -118.3560811
         }
     }, 
-    "total": 60939, 
+    "total": 51082, 
     "businesses": [
         {
-            "is_claimed": true, 
-            "rating": 4.0, 
-            "mobile_url": "http://m.yelp.com/biz/veggie-grill-encino", 
-            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 196, 
-            "name": "Veggie Grill", 
-            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-            "url": "http://www.yelp.com/biz/veggie-grill-encino", 
-            "is_closed": false, 
-            "id": "veggie-grill-encino", 
-            "phone": "8187882621", 
-            "snippet_text": "deep fried cauliflower, buffalo style.\n\nyes, you read me right. \n\nperfectly battered, perfectly fried mighty florets, perfectly tossed in buffalo...", 
-            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/DHN1bbscOgQJRkF-2h_nJw/ms.jpg", 
-            "categories": [
-                [
-                    "American (New)", 
-                    "newamerican"
-                ], 
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
-                ]
-            ], 
-            "display_phone": "+1-818-788-2621", 
-            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-            "menu_provider": "single_platform", 
-            "menu_date_updated": 1404104180, 
-            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/JDJgb3xAk4ZguBALtoUVAA/ms.jpg", 
-            "location": {
-                "city": "Encino", 
-                "display_address": [
-                    "16542 Ventura Blvd", 
-                    "Encino", 
-                    "Encino, CA 91436"
-                ], 
-                "geo_accuracy": 9.5, 
-                "neighborhoods": [
-                    "Encino"
-                ], 
-                "postal_code": "91436", 
-                "country_code": "US", 
-                "address": [
-                    "16542 Ventura Blvd"
-                ], 
-                "coordinate": {
-                    "latitude": 34.1572765, 
-                    "longitude": -118.4939578
-                }, 
-                "state_code": "CA"
-            }
-        }, 
-        {
             "is_claimed": false, 
-            "rating": 4.5, 
-            "mobile_url": "http://m.yelp.com/biz/little-izaka-ya-by-katsu-ya-los-angeles", 
-            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 157, 
-            "name": "Little Izaka-ya By Katsu-ya", 
-            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-            "url": "http://www.yelp.com/biz/little-izaka-ya-by-katsu-ya-los-angeles", 
-            "is_closed": false, 
-            "phone": "8187893111", 
-            "snippet_text": "This place is dangerous.\n\nWhy is it dangerous, you ask?\n\nThis place is WALKING DISTANCE FROM MY HOUSE.\n\nLike... Half a block. Less than half a block. I...", 
-            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/SjcCBWLMEZ4OBRK-ah9_-g/ms.jpg", 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/donna-sophia-trattoria-los-angeles", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 17, 
+            "name": "Donna Sophia Trattoria", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/donna-sophia-trattoria-los-angeles", 
+            "is_closed": true, 
+            "id": "donna-sophia-trattoria-los-angeles", 
+            "phone": "3102085117", 
+            "snippet_text": "This place was very delicious but unfortunately they closed about a month ago.  So unfortunate since Westwood needs a good Italian restaurant.", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/AGbyU_tEv1B2opk3IsQEpQ/ms.jpg", 
             "categories": [
                 [
-                    "Sushi Bars", 
-                    "sushi"
-                ], 
-                [
-                    "Japanese", 
-                    "japanese"
+                    "Italian", 
+                    "italian"
                 ]
             ], 
-            "display_phone": "+1-818-789-3111", 
-            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-            "id": "little-izaka-ya-by-katsu-ya-los-angeles", 
-            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/p_7op6z7Qo7GVzlNbF525A/ms.jpg", 
+            "display_phone": "+1-310-208-5117", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "menu_provider": "single_platform", 
+            "menu_date_updated": 1399891978, 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/pK7aKkVx4m3jzWktZpecxA/ms.jpg", 
             "location": {
                 "city": "Los Angeles", 
                 "display_address": [
-                    "4517 Sepulveda Blvd", 
-                    "Sherman Oaks", 
-                    "Los Angeles, CA 91403"
+                    "1076 Gayley Ave", 
+                    "UCLA", 
+                    "Los Angeles, CA 90024"
                 ], 
-                "geo_accuracy": 9.5, 
+                "geo_accuracy": 8.0, 
                 "neighborhoods": [
-                    "Sherman Oaks"
+                    "UCLA", 
+                    "Westwood"
                 ], 
-                "postal_code": "91403", 
+                "postal_code": "90024", 
                 "country_code": "US", 
                 "address": [
-                    "4517 Sepulveda Blvd"
+                    "1076 Gayley Ave"
                 ], 
                 "coordinate": {
-                    "latitude": 34.152305, 
-                    "longitude": -118.466987
+                    "latitude": 34.0606038272381, 
+                    "longitude": -118.446732312441
                 }, 
                 "state_code": "CA"
             }
@@ -159,6 +102,56 @@
                 "coordinate": {
                     "latitude": 34.090153, 
                     "longitude": -118.464478
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/esso-mediterranean-bistro-encino", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 92, 
+            "name": "Esso Mediterranean Bistro", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/esso-mediterranean-bistro-encino", 
+            "is_closed": false, 
+            "phone": "8185146201", 
+            "snippet_text": "Great lunch special, two pretty generous skewers of juicy and flavorful chicken kabob and homous for $10 (also comes with pita, a small dinner salad and...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/ZyrrsMA4RtLJh4TRFiEw-g/ms.jpg", 
+            "categories": [
+                [
+                    "Middle Eastern", 
+                    "mideastern"
+                ], 
+                [
+                    "Mediterranean", 
+                    "mediterranean"
+                ]
+            ], 
+            "display_phone": "+1-818-514-6201", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "esso-mediterranean-bistro-encino", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/2_XhuiDbFiKadG5zaCJ7SA/ms.jpg", 
+            "location": {
+                "city": "Encino", 
+                "display_address": [
+                    "17933 Ventura Blvd", 
+                    "Encino", 
+                    "Encino, CA 91316"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Encino"
+                ], 
+                "postal_code": "91316", 
+                "country_code": "US", 
+                "address": [
+                    "17933 Ventura Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.1639614105225, 
+                    "longitude": -118.523018360138
                 }, 
                 "state_code": "CA"
             }
@@ -236,7 +229,7 @@
             "rating": 4.5, 
             "mobile_url": "http://m.yelp.com/biz/spazio-caff%C3%A9-santa-monica", 
             "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 177, 
+            "review_count": 178, 
             "name": "Spazio Caff\u00e9", 
             "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
             "url": "http://www.yelp.com/biz/spazio-caff%C3%A9-santa-monica", 
@@ -438,7 +431,7 @@
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/b-moved-long-beach-movers-long-beach", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 155, 
+            "review_count": 157, 
             "name": "B Moved - Long Beach Movers", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/b-moved-long-beach-movers-long-beach", 
@@ -653,9 +646,56 @@
         {
             "is_claimed": true, 
             "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/ikes-place-los-angeles", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 142, 
+            "name": "Ike's Place", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/ikes-place-los-angeles", 
+            "is_closed": false, 
+            "phone": "3102080770", 
+            "snippet_text": "LIVED. UP. TO. THE. HYPE. \n\nMatt Cain. Dutch Crunch Bread. Dirty Sauce. Menage a Trois. \n\nWell played, Frisco. Well played...\n\nShouts to J to the Y....", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/Oi7jJRknOtysExOkKjmrSA/ms.jpg", 
+            "categories": [
+                [
+                    "Sandwiches", 
+                    "sandwiches"
+                ]
+            ], 
+            "display_phone": "+1-310-208-0770", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "ikes-place-los-angeles", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/u7BSoNCG8HhGrtD0XYsMbw/ms.jpg", 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "1151 Westwood Blvd", 
+                    "UCLA", 
+                    "Los Angeles, CA 90024"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "UCLA", 
+                    "Westwood"
+                ], 
+                "postal_code": "90024", 
+                "country_code": "US", 
+                "address": [
+                    "1151 Westwood Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0598461, 
+                    "longitude": -118.4447637
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
             "mobile_url": "http://m.yelp.com/biz/tlt-food-los-angeles", 
             "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 527, 
+            "review_count": 529, 
             "name": "TLT Food", 
             "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
             "url": "http://www.yelp.com/biz/tlt-food-los-angeles", 
@@ -695,6 +735,54 @@
                 "coordinate": {
                     "latitude": 34.0604095, 
                     "longitude": -118.4448929
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/pizzicotto-los-angeles", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 306, 
+            "name": "Pizzicotto", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/pizzicotto-los-angeles", 
+            "is_closed": false, 
+            "id": "pizzicotto-los-angeles", 
+            "phone": "3104427188", 
+            "snippet_text": "My go-to Italian restaurant when hankering for a really good pasta dish actually influenced by Italian service, generosity, & flavors.\n\nEvery meal starts...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/oz-nRuDJqXk4rIZPITi3tA/ms.jpg", 
+            "categories": [
+                [
+                    "Italian", 
+                    "italian"
+                ]
+            ], 
+            "display_phone": "+1-310-442-7188", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "menu_date_updated": 1387597650, 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/lI7q8sKBY4cNR7mArK6Kog/ms.jpg", 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "11758 San Vicente Blvd", 
+                    "Brentwood", 
+                    "Los Angeles, CA 90049"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Brentwood"
+                ], 
+                "postal_code": "90049", 
+                "country_code": "US", 
+                "address": [
+                    "11758 San Vicente Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.053051, 
+                    "longitude": -118.4673004
                 }, 
                 "state_code": "CA"
             }
@@ -754,54 +842,6 @@
             }
         }, 
         {
-            "is_claimed": false, 
-            "rating": 4.0, 
-            "mobile_url": "http://m.yelp.com/biz/pizzicotto-los-angeles", 
-            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 306, 
-            "name": "Pizzicotto", 
-            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-            "url": "http://www.yelp.com/biz/pizzicotto-los-angeles", 
-            "is_closed": false, 
-            "id": "pizzicotto-los-angeles", 
-            "phone": "3104427188", 
-            "snippet_text": "My go-to Italian restaurant when hankering for a really good pasta dish actually influenced by Italian service, generosity, & flavors.\n\nEvery meal starts...", 
-            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/oz-nRuDJqXk4rIZPITi3tA/ms.jpg", 
-            "categories": [
-                [
-                    "Italian", 
-                    "italian"
-                ]
-            ], 
-            "display_phone": "+1-310-442-7188", 
-            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-            "menu_provider": "single_platform", 
-            "menu_date_updated": 1387597650, 
-            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/lI7q8sKBY4cNR7mArK6Kog/ms.jpg", 
-            "location": {
-                "city": "Los Angeles", 
-                "display_address": [
-                    "11758 San Vicente Blvd", 
-                    "Brentwood", 
-                    "Los Angeles, CA 90049"
-                ], 
-                "geo_accuracy": 8.0, 
-                "neighborhoods": [
-                    "Brentwood"
-                ], 
-                "postal_code": "90049", 
-                "country_code": "US", 
-                "address": [
-                    "11758 San Vicente Blvd"
-                ], 
-                "coordinate": {
-                    "latitude": 34.053051, 
-                    "longitude": -118.4673004
-                }, 
-                "state_code": "CA"
-            }
-        }, 
-        {
             "is_claimed": true, 
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/guardian-angel-locksmith-sherman-oaks-6", 
@@ -843,77 +883,6 @@
                 "coordinate": {
                     "latitude": 34.1477608680725, 
                     "longitude": -118.429943695664
-                }, 
-                "state_code": "CA"
-            }
-        }, 
-        {
-            "is_claimed": true, 
-            "rating": 5.0, 
-            "mobile_url": "http://m.yelp.com/biz/miller-introduction-to-judaism-program-los-angeles", 
-            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 54, 
-            "name": "Miller Introduction to Judaism Program", 
-            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
-            "url": "http://www.yelp.com/biz/miller-introduction-to-judaism-program-los-angeles", 
-            "is_closed": false, 
-            "phone": "3104401273", 
-            "snippet_text": "Great teacher, our Rabbi Greenwald.\nWorld class scholarship. Accessible community. Astonishing fellowship.\n\nVisionary 2.0 program!", 
-            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/ovlxXkFGke4LGBd7SQ_xXQ/ms.jpg", 
-            "categories": [
-                [
-                    "Religious Schools", 
-                    "religiousschools"
-                ]
-            ], 
-            "display_phone": "+1-310-440-1273", 
-            "gift_certificates": [
-                {
-                    "url": "http://www.yelp.com/gift-certificates/miller-introduction-to-judaism-program-los-angeles", 
-                    "unused_balances": "CASH", 
-                    "id": "0BYG9Vu1BiPv3q6og15yHg", 
-                    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/1m3KEQy3Cx3LvmP49cbEEw/m.jpg", 
-                    "options": [
-                        {
-                            "price": 7500, 
-                            "formatted_price": "$75"
-                        }, 
-                        {
-                            "price": 10000, 
-                            "formatted_price": "$100"
-                        }, 
-                        {
-                            "price": 15000, 
-                            "formatted_price": "$150"
-                        }
-                    ], 
-                    "currency_code": "USD"
-                }
-            ], 
-            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
-            "id": "miller-introduction-to-judaism-program-los-angeles", 
-            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/OQi4Y0qxbE7BG-4Ys7zFqQ/ms.jpg", 
-            "location": {
-                "city": "Los Angeles", 
-                "display_address": [
-                    "American Jewish University", 
-                    "15600 Mulholland Dr", 
-                    "Bel Air", 
-                    "Los Angeles, CA 90077"
-                ], 
-                "geo_accuracy": 9.5, 
-                "neighborhoods": [
-                    "Bel Air"
-                ], 
-                "postal_code": "90077", 
-                "country_code": "US", 
-                "address": [
-                    "American Jewish University", 
-                    "15600 Mulholland Dr"
-                ], 
-                "coordinate": {
-                    "latitude": 34.1273864, 
-                    "longitude": -118.4716079
                 }, 
                 "state_code": "CA"
             }
@@ -966,48 +935,48 @@
         }, 
         {
             "is_claimed": true, 
-            "rating": 4.5, 
-            "mobile_url": "http://m.yelp.com/biz/funnel-mill-santa-monica-2", 
-            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 445, 
-            "name": "Funnel Mill", 
-            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-            "url": "http://www.yelp.com/biz/funnel-mill-santa-monica-2", 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/miller-introduction-to-judaism-program-los-angeles", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 54, 
+            "name": "Miller Introduction to Judaism Program", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/miller-introduction-to-judaism-program-los-angeles", 
             "is_closed": false, 
-            "phone": "3103931617", 
-            "snippet_text": "Last review reads a bit critically given the sum of my experiences here.  \n\nA few addendums - \n\nThe prepared drinks are excellent here.  Chai tea is made on...", 
-            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/fUH_JmAiQnbe_Tf70aEY8Q/ms.jpg", 
+            "phone": "3104401273", 
+            "snippet_text": "Great teacher, our Rabbi Greenwald.\nWorld class scholarship. Accessible community. Astonishing fellowship.\n\nVisionary 2.0 program!", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/ovlxXkFGke4LGBd7SQ_xXQ/ms.jpg", 
             "categories": [
                 [
-                    "Coffee & Tea", 
-                    "coffee"
+                    "Religious Schools", 
+                    "religiousschools"
                 ]
             ], 
-            "display_phone": "+1-310-393-1617", 
-            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-            "id": "funnel-mill-santa-monica-2", 
-            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/iu8iuYipEfzIxvzbPezwuQ/ms.jpg", 
+            "display_phone": "+1-310-440-1273", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "miller-introduction-to-judaism-program-los-angeles", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/OQi4Y0qxbE7BG-4Ys7zFqQ/ms.jpg", 
             "location": {
-                "city": "Santa Monica", 
+                "city": "Los Angeles", 
                 "display_address": [
-                    "930 Broadway", 
-                    "Ste A", 
-                    "Santa Monica", 
-                    "Santa Monica, CA 90401"
+                    "American Jewish University", 
+                    "15600 Mulholland Dr", 
+                    "Bel Air", 
+                    "Los Angeles, CA 90077"
                 ], 
-                "geo_accuracy": 8.0, 
+                "geo_accuracy": 9.5, 
                 "neighborhoods": [
-                    "Santa Monica"
+                    "Bel Air"
                 ], 
-                "postal_code": "90401", 
+                "postal_code": "90077", 
                 "country_code": "US", 
                 "address": [
-                    "930 Broadway", 
-                    "Ste A"
+                    "American Jewish University", 
+                    "15600 Mulholland Dr"
                 ], 
                 "coordinate": {
-                    "latitude": 34.0194168, 
-                    "longitude": -118.4880829
+                    "latitude": 34.1273864, 
+                    "longitude": -118.4716079
                 }, 
                 "state_code": "CA"
             }
@@ -1015,112 +984,50 @@
         {
             "is_claimed": true, 
             "rating": 5.0, 
-            "mobile_url": "http://m.yelp.com/biz/group-micro-computers-los-angeles-7", 
+            "mobile_url": "http://m.yelp.com/biz/makeup-by-giovanissa-glendale-2", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 213, 
-            "name": "Group Micro Computers", 
+            "review_count": 120, 
+            "name": "Makeup By Giovanissa", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
-            "url": "http://www.yelp.com/biz/group-micro-computers-los-angeles-7", 
+            "url": "http://www.yelp.com/biz/makeup-by-giovanissa-glendale-2", 
             "is_closed": false, 
-            "deals": [
-                {
-                    "is_popular": true, 
-                    "what_you_get": "You get a voucher redeemable for $100 at Group Micro Computers.\nPrint out your voucher, or redeem on your phone with the <a href=\"http://www.yelp.com/yelpmobile\">Yelp app</a>.", 
-                    "time_start": 1411493430, 
-                    "title": "$90 for $100", 
-                    "url": "http://www.yelp.com/deals/group-micro-computers-los-angeles-3-2", 
-                    "additional_restrictions": "Promotion lasts for 1 year from date of purchase. After that period, your voucher is redeemable for the amount you paid, less any value you may have received. Not valid with other vouchers, certificates, or offers. Only 1 voucher(s) can be purchased and redeemed per person. Up to 3 can be purchased as gifts for others. Subject to the <a target=\"_blank\" href=\"http://www.yelp.com/tos/general_b2c_us_20120911\">General Terms</a>.", 
-                    "id": "lJHc9Di484NPGzdmwj-gVQ", 
-                    "image_url": "http://s3-media4.fl.yelpcdn.com/dphoto/3FlKSleqDjHGBwE9hxpSEA/m.jpg", 
-                    "options": [
-                        {
-                            "original_price": 10000, 
-                            "title": "$90 for $100", 
-                            "price": 9000, 
-                            "purchase_url": "https://www.yelp.com/checkout/deal/H5PagLWqxniBYzxl9FOMBA", 
-                            "remaining_count": 4, 
-                            "formatted_original_price": "$100", 
-                            "formatted_price": "$90", 
-                            "is_quantity_limited": true
-                        }
-                    ], 
-                    "currency_code": "USD"
-                }
-            ], 
-            "phone": "3104434400", 
-            "snippet_text": "I've lived in Westwood for 10 years, and must have walked past this shop hundreds of times. Until recently, I've been hesitant to have my Apple products...", 
-            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/naQk3PC-KnWxU_z7DucpAQ/ms.jpg", 
+            "phone": "8186606120", 
+            "snippet_text": "Last minute decided to get my makeup done by a professional and decided to use Yelp to find one  around my place. \n\nThank you Yelp for the suggestion....", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/vzVMfEN7z-bJKL__kZdSHw/ms.jpg", 
             "categories": [
                 [
-                    "Data Recovery", 
-                    "datarecovery"
+                    "Makeup Artists", 
+                    "makeupartists"
                 ], 
                 [
-                    "Mobile Phone Repair", 
-                    "mobilephonerepair"
+                    "Blow Dry/Out Services", 
+                    "blowoutservices"
                 ], 
                 [
-                    "Electronics Repair", 
-                    "electronicsrepair"
+                    "Hair Stylists", 
+                    "hairstylists"
                 ]
             ], 
-            "display_phone": "+1-310-443-4400", 
-            "gift_certificates": [
-                {
-                    "url": "http://www.yelp.com/gift-certificates/group-micro-computers-los-angeles-7", 
-                    "unused_balances": "CASH", 
-                    "id": "iRQK8_Fg1geDsIgXTiwN6A", 
-                    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/V96Cbyyjl8-o4RaLQlB-8g/m.jpg", 
-                    "options": [
-                        {
-                            "price": 1000, 
-                            "formatted_price": "$10"
-                        }, 
-                        {
-                            "price": 2500, 
-                            "formatted_price": "$25"
-                        }, 
-                        {
-                            "price": 5000, 
-                            "formatted_price": "$50"
-                        }, 
-                        {
-                            "price": 7500, 
-                            "formatted_price": "$75"
-                        }, 
-                        {
-                            "price": 10000, 
-                            "formatted_price": "$100"
-                        }
-                    ], 
-                    "currency_code": "USD"
-                }
-            ], 
+            "display_phone": "+1-818-660-6120", 
             "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
-            "id": "group-micro-computers-los-angeles-7", 
-            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/fgUTuiWYHz22ilzqekEZyQ/ms.jpg", 
+            "id": "makeup-by-giovanissa-glendale-2", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/t-Uu3-zmAZpVz4g9dss6Gg/ms.jpg", 
             "location": {
-                "city": "Los Angeles", 
+                "city": "Glendale", 
                 "display_address": [
-                    "1036 Broxton Ave", 
-                    "Ste C", 
-                    "UCLA", 
-                    "Los Angeles, CA 90024"
+                    "Glendale", 
+                    "Glendale, CA 91201"
                 ], 
                 "geo_accuracy": 9.5, 
                 "neighborhoods": [
-                    "UCLA", 
-                    "Westwood"
+                    "Glendale"
                 ], 
-                "postal_code": "90024", 
+                "postal_code": "91201", 
                 "country_code": "US", 
-                "address": [
-                    "1036 Broxton Ave", 
-                    "Ste C"
-                ], 
+                "address": [], 
                 "coordinate": {
-                    "latitude": 34.061878, 
-                    "longitude": -118.446185
+                    "latitude": 34.169944074528, 
+                    "longitude": -118.289399489519
                 }, 
                 "state_code": "CA"
             }

@@ -43,6 +43,7 @@ class YelpSkraper(scrapy.Spider):
 			for j in range(len(vote_cat)):
 				votes_dict[vote_cat[j]] = vote_count[j]
 			item['votes'] = votes_dict
+			item['type'] = 'Review'
 
 			yield item
 

@@ -9,54 +9,8 @@
             "longitude": -118.4174575
         }
     }, 
-    "total": 71315, 
+    "total": 51472, 
     "businesses": [
-        {
-            "is_claimed": false, 
-            "rating": 4.5, 
-            "mobile_url": "http://m.yelp.com/biz/saturdays-off-the-405-los-angeles", 
-            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 38, 
-            "name": "Saturdays Off The 405", 
-            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-            "url": "http://www.yelp.com/biz/saturdays-off-the-405-los-angeles", 
-            "is_closed": false, 
-            "phone": "3104407300", 
-            "snippet_text": "Went for my 2nd time this past Saturday to see Badbadnotgood and I gotta say that I really love this event. I can't think of a better thing to do on a date...", 
-            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/suQCJfAPXns5OIuYQKd7mg/ms.jpg", 
-            "categories": [
-                [
-                    "Local Flavor", 
-                    "localflavor"
-                ]
-            ], 
-            "display_phone": "+1-310-440-7300", 
-            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-            "id": "saturdays-off-the-405-los-angeles", 
-            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/bDnDis3mL-tnu3Sx1wpI9A/ms.jpg", 
-            "location": {
-                "city": "Los Angeles", 
-                "display_address": [
-                    "1200 Getty Center Dr", 
-                    "Brentwood", 
-                    "Los Angeles, CA 90049"
-                ], 
-                "geo_accuracy": 8.0, 
-                "neighborhoods": [
-                    "Brentwood"
-                ], 
-                "postal_code": "90049", 
-                "country_code": "US", 
-                "address": [
-                    "1200 Getty Center Dr"
-                ], 
-                "coordinate": {
-                    "latitude": 34.078899, 
-                    "longitude": -118.474403
-                }, 
-                "state_code": "CA"
-            }
-        }, 
         {
             "is_claimed": true, 
             "rating": 5.0, 
@@ -112,11 +66,57 @@
             }
         }, 
         {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/saturdays-off-the-405-los-angeles", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 38, 
+            "name": "Saturdays Off The 405", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/saturdays-off-the-405-los-angeles", 
+            "is_closed": false, 
+            "phone": "3104407300", 
+            "snippet_text": "Went for my 2nd time this past Saturday to see Badbadnotgood and I gotta say that I really love this event. I can't think of a better thing to do on a date...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/suQCJfAPXns5OIuYQKd7mg/ms.jpg", 
+            "categories": [
+                [
+                    "Local Flavor", 
+                    "localflavor"
+                ]
+            ], 
+            "display_phone": "+1-310-440-7300", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "saturdays-off-the-405-los-angeles", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/bDnDis3mL-tnu3Sx1wpI9A/ms.jpg", 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "1200 Getty Center Dr", 
+                    "Brentwood", 
+                    "Los Angeles, CA 90049"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Brentwood"
+                ], 
+                "postal_code": "90049", 
+                "country_code": "US", 
+                "address": [
+                    "1200 Getty Center Dr"
+                ], 
+                "coordinate": {
+                    "latitude": 34.078899, 
+                    "longitude": -118.474403
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
             "is_claimed": true, 
             "rating": 4.5, 
             "mobile_url": "http://m.yelp.com/biz/the-harvest-bar-sherman-oaks", 
             "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 124, 
+            "review_count": 125, 
             "name": "The Harvest Bar", 
             "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
             "url": "http://www.yelp.com/biz/the-harvest-bar-sherman-oaks", 
@@ -218,7 +218,7 @@
             "rating": 4.5, 
             "mobile_url": "http://m.yelp.com/biz/lady-chocolatt-los-angeles", 
             "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 165, 
+            "review_count": 166, 
             "name": "Lady Chocolatt", 
             "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
             "url": "http://www.yelp.com/biz/lady-chocolatt-los-angeles", 
@@ -317,7 +317,7 @@
             "rating": 4.5, 
             "mobile_url": "http://m.yelp.com/biz/belwood-bakery-cafe-los-angeles", 
             "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 165, 
+            "review_count": 166, 
             "name": "Belwood Bakery Cafe", 
             "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
             "url": "http://www.yelp.com/biz/belwood-bakery-cafe-los-angeles", 
@@ -369,22 +369,18 @@
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/detail-usa-los-angeles-4", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 154, 
+            "review_count": 156, 
             "name": "Detail USA", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/detail-usa-los-angeles-4", 
             "is_closed": false, 
             "phone": "8669392948", 
             "snippet_text": "Amazing experience! Ken and his staff did an absolutely amazing job on my jet black Cadillac CTSV. I am very particular about cleaning and detailing my cars...", 
-            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/W-GkFkXAbGESKQMunV5eIw/ms.jpg", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/U2bydYMuGtTwJnNqxBDEfg/ms.jpg", 
             "categories": [
                 [
                     "Auto Detailing", 
                     "auto_detailing"
-                ], 
-                [
-                    "Body Shops", 
-                    "bodyshops"
                 ]
             ], 
             "display_phone": "+1-866-939-2948", 
@@ -416,7 +412,7 @@
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/northstar-movers-los-angeles-2", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 473, 
+            "review_count": 472, 
             "name": "NorthStar Movers", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/northstar-movers-los-angeles-2", 
@@ -685,52 +681,9 @@
         {
             "is_claimed": true, 
             "rating": 5.0, 
-            "mobile_url": "http://m.yelp.com/biz/bereket-kitchen-los-angeles", 
-            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 13, 
-            "name": "Bereket Kitchen", 
-            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
-            "url": "http://www.yelp.com/biz/bereket-kitchen-los-angeles", 
-            "is_closed": true, 
-            "phone": "3145371577", 
-            "snippet_text": "The spices aromas and presentation were all wonderful.   It was a tasty mixture of textures and rich flavors I knew had been simmering for hours.   It was...", 
-            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/lmh9V6ptBzyuKnHgbplpbw/ms.jpg", 
-            "categories": [
-                [
-                    "Ethiopian", 
-                    "ethiopian"
-                ]
-            ], 
-            "display_phone": "+1-314-537-1577", 
-            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
-            "id": "bereket-kitchen-los-angeles", 
-            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/2f093Mi5IGFQRBXjKaI7NQ/ms.jpg", 
-            "location": {
-                "city": "Los Angeles", 
-                "display_address": [
-                    "Brentwood", 
-                    "Los Angeles, CA 90049"
-                ], 
-                "geo_accuracy": 5.0, 
-                "neighborhoods": [
-                    "Brentwood"
-                ], 
-                "postal_code": "90049", 
-                "country_code": "US", 
-                "address": [], 
-                "coordinate": {
-                    "latitude": 34.0862731933594, 
-                    "longitude": -118.488639831543
-                }, 
-                "state_code": "CA"
-            }
-        }, 
-        {
-            "is_claimed": true, 
-            "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/tart-bites-encino", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 46, 
+            "review_count": 45, 
             "name": "Tart Bites", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/tart-bites-encino", 
@@ -836,7 +789,7 @@
             "rating": 4.5, 
             "mobile_url": "http://m.yelp.com/biz/northstar-moving-company-los-angeles", 
             "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 802, 
+            "review_count": 803, 
             "name": "NorthStar Moving Company", 
             "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
             "url": "http://www.yelp.com/biz/northstar-moving-company-los-angeles", 
@@ -906,7 +859,7 @@
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/carpet-dry-cleaning-and-more-los-angeles", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 79, 
+            "review_count": 78, 
             "name": "Carpet Dry Cleaning & More", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/carpet-dry-cleaning-and-more-los-angeles", 
@@ -987,7 +940,7 @@
             "rating": 4.0, 
             "mobile_url": "http://m.yelp.com/biz/bella-pita-los-angeles", 
             "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 466, 
+            "review_count": 467, 
             "name": "Bella Pita", 
             "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
             "url": "http://www.yelp.com/biz/bella-pita-los-angeles", 
@@ -1137,6 +1090,52 @@
                 "coordinate": {
                     "latitude": 34.0760384, 
                     "longitude": -118.5653687
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/taste-my-soup-encino", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 64, 
+            "name": "Taste My Soup", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/taste-my-soup-encino", 
+            "is_closed": false, 
+            "phone": "8187834204", 
+            "snippet_text": "Just an update.\n\nGood: turkey chowder, sausage & bean soup, turkey berry sandwich, gobbler sandwich.\n\nNot impressed: split pea with mint. I needed to take...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/64PyNL4wScQU4Zx6UrhPcQ/ms.jpg", 
+            "categories": [
+                [
+                    "Soup", 
+                    "soup"
+                ]
+            ], 
+            "display_phone": "+1-818-783-4204", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "taste-my-soup-encino", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/jHv9UfIgiGTBKX1-iryRhg/ms.jpg", 
+            "location": {
+                "city": "Encino", 
+                "display_address": [
+                    "15608 Ventura Blvd", 
+                    "Encino", 
+                    "Encino, CA 91316"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Encino"
+                ], 
+                "postal_code": "91316", 
+                "country_code": "US", 
+                "address": [
+                    "15608 Ventura Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.1548615, 
+                    "longitude": -118.4736557
                 }, 
                 "state_code": "CA"
             }

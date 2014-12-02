@@ -3,6 +3,7 @@ import json
 import urllib2
 import os
 import oauth2
+import ConfigParser
 
 API_HOST = 'api.yelp.com'
 DEFAULT_TERM = ''
@@ -11,10 +12,13 @@ SEARCH_LIMIT = 0
 SEARCH_PATH = '/v2/search/'
 BUSINESS_PATH = '/v2/business/'
 
-CONSUMER_KEY = "KG9LhffRyaRVIfkbGL2eTQ"
-CONSUMER_SECRET = "IyLFmSaXC5jVJlGiB-DRAGfLugI"
-TOKEN = "CagAtgE91Cq6sSB2u5UO4Moj4JfInL8D"
-TOKEN_SECRET = "VX5miaUGrZi9CamxUvaAKaVNtVQ"
+Config = ConfigParser.ConfigParser()
+Config.read('yelp.conf')
+
+CONSUMER_KEY = Config.get('YelpApi', 'CONSUMER_KEY', 0)
+CONSUMER_SECRET = Config.get('YelpApi', 'CONSUMER_SECRET', 0)
+TOKEN = Config.get('YelpApi', 'TOKEN', 0)
+TOKEN_SECRET = Config.get('YelpApi', 'TOKEN_SECRET', 0)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, 'api_output')

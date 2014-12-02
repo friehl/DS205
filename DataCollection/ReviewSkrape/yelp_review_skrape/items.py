@@ -17,4 +17,5 @@ class YPReview(scrapy.Item):
     votes = scrapy.Field()
     name = scrapy.Field()
     id = scrapy.Field()
+    type = scrapy.Field()
     

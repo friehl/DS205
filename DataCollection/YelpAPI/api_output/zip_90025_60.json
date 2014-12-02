@@ -9,14 +9,88 @@
             "longitude": -118.2172563
         }
     }, 
-    "total": 22506, 
+    "total": 36186, 
     "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/prodigy-moving-and-storage-los-angeles-2", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 716, 
+            "name": "Prodigy Moving & Storage", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/prodigy-moving-and-storage-los-angeles-2", 
+            "is_closed": false, 
+            "deals": [
+                {
+                    "is_popular": true, 
+                    "what_you_get": "You get a voucher redeemable for $50 at Prodigy Moving & Storage.\nPrint out your voucher, or redeem on your phone with the <a href=\"http://www.yelp.com/yelpmobile\">Yelp app</a>.", 
+                    "time_start": 1327015856, 
+                    "title": "$20 for $50", 
+                    "url": "http://www.yelp.com/deals/prodigy-moving-and-storage-los-angeles-2", 
+                    "additional_restrictions": "Promotion lasts for 1 year from date of purchase. After that period, your voucher is redeemable for the amount you paid. All equipment provided. Not valid with other vouchers, certificates, or offers. Must use in a single visit. Only 1 voucher(s) can be purchased and redeemed per person. By appointment only. Up to 3 can be purchased as gifts for others. Must make appointment at least 24 hours in advance. Tax included. Subject to the <a target=\"_blank\" href=\"http://www.yelp.com/tos/general_b2c_us_20120911\">General Terms</a>.", 
+                    "id": "g4i5Mb18knjtZ3fq2bMu1A", 
+                    "image_url": "http://s3-media3.fl.yelpcdn.com/dphoto/Sq4C9nuw-RzhCq70CswliQ/m.jpg", 
+                    "options": [
+                        {
+                            "original_price": 5000, 
+                            "title": "$20 for $50", 
+                            "price": 2000, 
+                            "purchase_url": "https://www.yelp.com/checkout/deal/L3deFRE-KnSLBq2MWB-rDQ", 
+                            "formatted_original_price": "$50", 
+                            "formatted_price": "$20", 
+                            "is_quantity_limited": false
+                        }
+                    ], 
+                    "currency_code": "USD"
+                }
+            ], 
+            "phone": "8669916683", 
+            "snippet_text": "This company is the best! I've used them twice to move and have never had any issues. They are fast, efficient, and I highly recommend them. \n\nVeronica set...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/DK1O7PeYlWlzEEJsMNdxyg/ms.jpg", 
+            "categories": [
+                [
+                    "Movers", 
+                    "movers"
+                ], 
+                [
+                    "Self Storage", 
+                    "selfstorage"
+                ]
+            ], 
+            "display_phone": "+1-866-991-6683", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "prodigy-moving-and-storage-los-angeles-2", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/oMkXTOBoUU9dzTd7JT3GGg/ms.jpg", 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "312 5th St", 
+                    "Downtown", 
+                    "Los Angeles, CA 90012"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "90012", 
+                "country_code": "US", 
+                "address": [
+                    "312 5th St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.048317, 
+                    "longitude": -118.251244
+                }, 
+                "state_code": "CA"
+            }
+        }, 
         {
             "is_claimed": true, 
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/abc-moving-center-los-angeles", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 1476, 
+            "review_count": 1478, 
             "name": "ABC Moving Center", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/abc-moving-center-los-angeles", 
@@ -93,7 +167,7 @@
             "rating": 4.0, 
             "mobile_url": "http://m.yelp.com/biz/tlt-food-los-angeles", 
             "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 527, 
+            "review_count": 529, 
             "name": "TLT Food", 
             "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
             "url": "http://www.yelp.com/biz/tlt-food-los-angeles", 
@@ -179,61 +253,9 @@
         {
             "is_claimed": true, 
             "rating": 4.0, 
-            "mobile_url": "http://m.yelp.com/biz/freddy-smalls-bar-and-kitchen-los-angeles", 
-            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 314, 
-            "name": "Freddy Small's Bar and Kitchen", 
-            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-            "url": "http://www.yelp.com/biz/freddy-smalls-bar-and-kitchen-los-angeles", 
-            "is_closed": false, 
-            "id": "freddy-smalls-bar-and-kitchen-los-angeles", 
-            "phone": "3104793000", 
-            "snippet_text": "Gosh I love it here. Brussels sprouts are a must- they are definitely the best in the city if not the whole country! I always order Brussels sprouts in...", 
-            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/Jm6i5EkgI4pZvmzrYYRm0A/ms.jpg", 
-            "categories": [
-                [
-                    "Pubs", 
-                    "pubs"
-                ], 
-                [
-                    "American (New)", 
-                    "newamerican"
-                ]
-            ], 
-            "display_phone": "+1-310-479-3000", 
-            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-            "menu_provider": "single_platform", 
-            "menu_date_updated": 1401165301, 
-            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/YQkgv39_hOrjV8njQ-FYfQ/ms.jpg", 
-            "location": {
-                "city": "Los Angeles", 
-                "display_address": [
-                    "11520 W Pico Blvd", 
-                    "Sawtelle", 
-                    "Los Angeles, CA 90064"
-                ], 
-                "geo_accuracy": 9.5, 
-                "neighborhoods": [
-                    "Sawtelle"
-                ], 
-                "postal_code": "90064", 
-                "country_code": "US", 
-                "address": [
-                    "11520 W Pico Blvd"
-                ], 
-                "coordinate": {
-                    "latitude": 34.0331249, 
-                    "longitude": -118.4425487
-                }, 
-                "state_code": "CA"
-            }
-        }, 
-        {
-            "is_claimed": true, 
-            "rating": 4.0, 
             "mobile_url": "http://m.yelp.com/biz/plan-check-kitchen-bar-los-angeles-2", 
             "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 1392, 
+            "review_count": 1395, 
             "name": "Plan Check Kitchen + Bar", 
             "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
             "url": "http://www.yelp.com/biz/plan-check-kitchen-bar-los-angeles-2", 
@@ -286,10 +308,62 @@
         }, 
         {
             "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/freddy-smalls-bar-and-kitchen-los-angeles", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 314, 
+            "name": "Freddy Small's Bar and Kitchen", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/freddy-smalls-bar-and-kitchen-los-angeles", 
+            "is_closed": false, 
+            "id": "freddy-smalls-bar-and-kitchen-los-angeles", 
+            "phone": "3104793000", 
+            "snippet_text": "Gosh I love it here. Brussels sprouts are a must- they are definitely the best in the city if not the whole country! I always order Brussels sprouts in...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/Jm6i5EkgI4pZvmzrYYRm0A/ms.jpg", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ]
+            ], 
+            "display_phone": "+1-310-479-3000", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "menu_date_updated": 1401165301, 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/YQkgv39_hOrjV8njQ-FYfQ/ms.jpg", 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "11520 W Pico Blvd", 
+                    "Sawtelle", 
+                    "Los Angeles, CA 90064"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Sawtelle"
+                ], 
+                "postal_code": "90064", 
+                "country_code": "US", 
+                "address": [
+                    "11520 W Pico Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0331249, 
+                    "longitude": -118.4425487
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/northstar-movers-los-angeles-2", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 473, 
+            "review_count": 472, 
             "name": "NorthStar Movers", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/northstar-movers-los-angeles-2", 
@@ -541,47 +615,52 @@
         }, 
         {
             "is_claimed": true, 
-            "rating": 4.0, 
-            "mobile_url": "http://m.yelp.com/biz/ikes-place-los-angeles", 
-            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-            "review_count": 142, 
-            "name": "Ike's Place", 
-            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-            "url": "http://www.yelp.com/biz/ikes-place-los-angeles", 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/ushuaia-argentinean-steakhouse-santa-monica", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 289, 
+            "name": "Ushuaia Argentinean Steakhouse", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/ushuaia-argentinean-steakhouse-santa-monica", 
             "is_closed": false, 
-            "phone": "3102080770", 
-            "snippet_text": "LIVED. UP. TO. THE. HYPE. \n\nMatt Cain. Dutch Crunch Bread. Dirty Sauce. Menage a Trois. \n\nWell played, Frisco. Well played...\n\nShouts to J to the Y....", 
-            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/Oi7jJRknOtysExOkKjmrSA/ms.jpg", 
+            "id": "ushuaia-argentinean-steakhouse-santa-monica", 
+            "phone": "3103155457", 
+            "snippet_text": "I had a Mouth watering amazing time here last night. The Service was great, What you would expect from a high end restaurant. As soon as we sat we were...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/jmz8U7RwUYoo81l-vOjXfQ/ms.jpg", 
             "categories": [
                 [
-                    "Sandwiches", 
-                    "sandwiches"
+                    "Steakhouses", 
+                    "steak"
+                ], 
+                [
+                    "Argentine", 
+                    "argentine"
                 ]
             ], 
-            "display_phone": "+1-310-208-0770", 
-            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-            "id": "ikes-place-los-angeles", 
-            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/u7BSoNCG8HhGrtD0XYsMbw/ms.jpg", 
+            "display_phone": "+1-310-315-5457", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "menu_date_updated": 1417270084, 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/KbiqawPYXl50F8m3DY4zzA/ms.jpg", 
             "location": {
-                "city": "Los Angeles", 
+                "city": "Santa Monica", 
                 "display_address": [
-                    "1151 Westwood Blvd", 
-                    "UCLA", 
-                    "Los Angeles, CA 90024"
+                    "2628 Wilshire Blvd", 
+                    "Santa Monica", 
+                    "Santa Monica, CA 90403"
                 ], 
-                "geo_accuracy": 9.5, 
+                "geo_accuracy": 8.0, 
                 "neighborhoods": [
-                    "UCLA", 
-                    "Westwood"
+                    "Santa Monica"
                 ], 
-                "postal_code": "90024", 
+                "postal_code": "90403", 
                 "country_code": "US", 
                 "address": [
-                    "1151 Westwood Blvd"
+                    "2628 Wilshire Blvd"
                 ], 
                 "coordinate": {
-                    "latitude": 34.0598461, 
-                    "longitude": -118.4447637
+                    "latitude": 34.036373, 
+                    "longitude": -118.476509
                 }, 
                 "state_code": "CA"
             }
@@ -688,52 +767,6 @@
             }
         }, 
         {
-            "is_claimed": false, 
-            "rating": 4.5, 
-            "mobile_url": "http://m.yelp.com/biz/totoraku-los-angeles", 
-            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 194, 
-            "name": "Totoraku", 
-            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-            "url": "http://www.yelp.com/biz/totoraku-los-angeles", 
-            "is_closed": false, 
-            "phone": "3108389881", 
-            "snippet_text": "First - be prepared for the most expensive meal of your lives, but know that it is so worth it. The meal was amazing and such a full experience, including...", 
-            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/gJJj1FsQ1QR1bT5R7O3wYA/ms.jpg", 
-            "categories": [
-                [
-                    "Japanese", 
-                    "japanese"
-                ]
-            ], 
-            "display_phone": "+1-310-838-9881", 
-            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-            "id": "totoraku-los-angeles", 
-            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/Z6EitZvOiC0r1TNsBqG5cw/ms.jpg", 
-            "location": {
-                "city": "Los Angeles", 
-                "display_address": [
-                    "10610 W Pico Blvd", 
-                    "Cheviot Hills", 
-                    "Los Angeles, CA 90064"
-                ], 
-                "geo_accuracy": 8.0, 
-                "neighborhoods": [
-                    "Cheviot Hills"
-                ], 
-                "postal_code": "90064", 
-                "country_code": "US", 
-                "address": [
-                    "10610 W Pico Blvd"
-                ], 
-                "coordinate": {
-                    "latitude": 34.0430183, 
-                    "longitude": -118.422142
-                }, 
-                "state_code": "CA"
-            }
-        }, 
-        {
             "is_claimed": true, 
             "rating": 4.5, 
             "mobile_url": "http://m.yelp.com/biz/quicksand-los-angeles", 
@@ -781,58 +814,6 @@
                 "coordinate": {
                     "latitude": 34.0400798396539, 
                     "longitude": -118.464546047343
-                }, 
-                "state_code": "CA"
-            }
-        }, 
-        {
-            "is_claimed": true, 
-            "rating": 4.5, 
-            "mobile_url": "http://m.yelp.com/biz/ushuaia-argentinean-steakhouse-santa-monica", 
-            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-            "review_count": 289, 
-            "name": "Ushuaia Argentinean Steakhouse", 
-            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-            "url": "http://www.yelp.com/biz/ushuaia-argentinean-steakhouse-santa-monica", 
-            "is_closed": false, 
-            "id": "ushuaia-argentinean-steakhouse-santa-monica", 
-            "phone": "3103155457", 
-            "snippet_text": "I had a Mouth watering amazing time here last night. The Service was great, What you would expect from a high end restaurant. As soon as we sat we were...", 
-            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/jmz8U7RwUYoo81l-vOjXfQ/ms.jpg", 
-            "categories": [
-                [
-                    "Steakhouses", 
-                    "steak"
-                ], 
-                [
-                    "Argentine", 
-                    "argentine"
-                ]
-            ], 
-            "display_phone": "+1-310-315-5457", 
-            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-            "menu_provider": "single_platform", 
-            "menu_date_updated": 1417270084, 
-            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/KbiqawPYXl50F8m3DY4zzA/ms.jpg", 
-            "location": {
-                "city": "Santa Monica", 
-                "display_address": [
-                    "2628 Wilshire Blvd", 
-                    "Santa Monica", 
-                    "Santa Monica, CA 90403"
-                ], 
-                "geo_accuracy": 8.0, 
-                "neighborhoods": [
-                    "Santa Monica"
-                ], 
-                "postal_code": "90403", 
-                "country_code": "US", 
-                "address": [
-                    "2628 Wilshire Blvd"
-                ], 
-                "coordinate": {
-                    "latitude": 34.036373, 
-                    "longitude": -118.476509
                 }, 
                 "state_code": "CA"
             }
@@ -915,7 +896,7 @@
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/rainbow-movers-north-hollywood-4", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 480, 
+            "review_count": 481, 
             "name": "Rainbow Movers", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/rainbow-movers-north-hollywood-4", 
@@ -1011,7 +992,7 @@
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/e-appliance-repair-company-los-angeles-3", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 486, 
+            "review_count": 483, 
             "name": "E Appliance Repair Company", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/e-appliance-repair-company-los-angeles-3", 
@@ -1084,6 +1065,116 @@
             }
         }, 
         {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/totoraku-los-angeles", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 195, 
+            "name": "Totoraku", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/totoraku-los-angeles", 
+            "is_closed": false, 
+            "phone": "3108389881", 
+            "snippet_text": "First - be prepared for the most expensive meal of your lives, but know that it is so worth it. The meal was amazing and such a full experience, including...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/gJJj1FsQ1QR1bT5R7O3wYA/ms.jpg", 
+            "categories": [
+                [
+                    "Japanese", 
+                    "japanese"
+                ]
+            ], 
+            "display_phone": "+1-310-838-9881", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "totoraku-los-angeles", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/Z6EitZvOiC0r1TNsBqG5cw/ms.jpg", 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "10610 W Pico Blvd", 
+                    "Cheviot Hills", 
+                    "Los Angeles, CA 90064"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Cheviot Hills"
+                ], 
+                "postal_code": "90064", 
+                "country_code": "US", 
+                "address": [
+                    "10610 W Pico Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0430183, 
+                    "longitude": -118.422142
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/alicia-wu-professional-make-up-and-hair-monrovia", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 64, 
+            "name": "Alicia Wu Professional Make-up & Hair", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/alicia-wu-professional-make-up-and-hair-monrovia", 
+            "is_closed": false, 
+            "deals": [
+                {
+                    "is_popular": true, 
+                    "what_you_get": "You get a voucher redeemable for $20 at Alicia Wu Professional Make-up & Hair.\nPrint out your voucher, or redeem on your phone with the <a href=\"http://www.yelp.com/yelpmobile\">Yelp app</a>.", 
+                    "time_start": 1407878647, 
+                    "title": "$10 for $20", 
+                    "url": "http://www.yelp.com/deals/alicia-wu-professional-make-up-and-hair-monrovia-3", 
+                    "additional_restrictions": "Promotion lasts for 1 year from date of purchase. After that period, your voucher is redeemable for the amount you paid, less any value you may have received. Not valid with other vouchers, certificates, or offers. Voucher can only be used for services, not retail products. Only 1 voucher(s) can be purchased and redeemed per person. Up to 2 can be purchased as gifts for others. Subject to the <a target=\"_blank\" href=\"http://www.yelp.com/tos/general_b2c_us_20120911\">General Terms</a>.", 
+                    "id": "8Jm9fFWM9rVH-jylv3tYDg", 
+                    "image_url": "http://s3-media2.fl.yelpcdn.com/dphoto/h-uu1iQrk7mthC595nY_Fg/m.jpg", 
+                    "options": [
+                        {
+                            "original_price": 2000, 
+                            "title": "$10 for $20", 
+                            "price": 1000, 
+                            "purchase_url": "https://www.yelp.com/checkout/deal/MANBk-ooVOfUURNHs_kd1g", 
+                            "remaining_count": 4, 
+                            "formatted_original_price": "$20", 
+                            "formatted_price": "$10", 
+                            "is_quantity_limited": true
+                        }
+                    ], 
+                    "currency_code": "USD"
+                }
+            ], 
+            "phone": "6264788799", 
+            "snippet_text": "**This review is only on Alicia Wu**\n\nIf you are looking for a professional, talented, and reliable makeup artist Alicia is the one. I was really hesitant...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/FzynXR3kmxjuTwD_-0oqVA/ms.jpg", 
+            "categories": [
+                [
+                    "Makeup Artists", 
+                    "makeupartists"
+                ]
+            ], 
+            "display_phone": "+1-626-478-8799", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "alicia-wu-professional-make-up-and-hair-monrovia", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/IrgHmxsIdT6onD0ckrHTbw/ms.jpg", 
+            "location": {
+                "city": "Monrovia", 
+                "display_address": [
+                    "Monrovia, CA 91016"
+                ], 
+                "geo_accuracy": 9.5, 
+                "postal_code": "91016", 
+                "country_code": "US", 
+                "address": [], 
+                "coordinate": {
+                    "latitude": 34.1442616, 
+                    "longitude": -118.0019482
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
             "is_claimed": true, 
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/the-small-delivery-company-los-angeles-2", 
@@ -1136,7 +1227,7 @@
             "rating": 5.0, 
             "mobile_url": "http://m.yelp.com/biz/uplifters-kitchen-santa-monica", 
             "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 44, 
+            "review_count": 43, 
             "name": "Uplifters Kitchen", 
             "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
             "url": "http://www.yelp.com/biz/uplifters-kitchen-santa-monica", 
@@ -1177,80 +1268,6 @@
                 "coordinate": {
                     "latitude": 34.019379, 
                     "longitude": -118.455299
-                }, 
-                "state_code": "CA"
-            }
-        }, 
-        {
-            "is_claimed": true, 
-            "rating": 5.0, 
-            "mobile_url": "http://m.yelp.com/biz/la-moving-centre-los-angeles-4", 
-            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-            "review_count": 239, 
-            "name": "LA Moving Centre", 
-            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
-            "url": "http://www.yelp.com/biz/la-moving-centre-los-angeles-4", 
-            "is_closed": false, 
-            "deals": [
-                {
-                    "is_popular": true, 
-                    "what_you_get": "You get a voucher redeemable for $40 at LA Moving Centre.\nPrint out your voucher, or redeem on your phone with the <a href=\"http://www.yelp.com/yelpmobile\">Yelp app</a>.", 
-                    "time_start": 1412145455, 
-                    "title": "$20 for $40", 
-                    "url": "http://www.yelp.com/deals/la-moving-centre-los-angeles-4-2", 
-                    "additional_restrictions": "Promotion lasts for 1 year from date of purchase. After that period, your voucher is redeemable for the amount you paid. All equipment provided. Not valid with other vouchers, certificates, or offers. Must use in a single visit. Only 1 voucher(s) can be purchased and redeemed per person. By appointment only. Must make appointment at least 24 hours in advance. 24-hour cancellation notice required or your voucher is forfeited. Cannot be purchased as a gift. Subject to the <a target=\"_blank\" href=\"http://www.yelp.com/tos/general_b2c_us_20120911\">General Terms</a>.", 
-                    "id": "vE5IyYAWTOapARG1fKnWDw", 
-                    "important_restrictions": "New customers only.", 
-                    "image_url": "http://s3-media1.fl.yelpcdn.com/dphoto/LA7VDYaTAUPM9A9YuKhToQ/m.jpg", 
-                    "options": [
-                        {
-                            "original_price": 4000, 
-                            "title": "$20 for $40", 
-                            "price": 2000, 
-                            "purchase_url": "https://www.yelp.com/checkout/deal/1KsTh8xdtPP1HNdEMCIOXg", 
-                            "remaining_count": 7, 
-                            "formatted_original_price": "$40", 
-                            "formatted_price": "$20", 
-                            "is_quantity_limited": true
-                        }
-                    ], 
-                    "currency_code": "USD"
-                }
-            ], 
-            "phone": "8009153898", 
-            "snippet_text": "Quick and efficient! Sanya and his team were great! We were moving from the 3rd floor to the 2nd floor of the same building. My boyfriend had a conference...", 
-            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/CkF4aA15VtrfoicurklhYA/ms.jpg", 
-            "categories": [
-                [
-                    "Movers", 
-                    "movers"
-                ]
-            ], 
-            "display_phone": "+1-800-915-3898", 
-            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
-            "id": "la-moving-centre-los-angeles-4", 
-            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/bpxsTBKMuJCCdE2Yz3pxDA/ms.jpg", 
-            "location": {
-                "city": "Los Angeles", 
-                "display_address": [
-                    "1600 N Vine St", 
-                    "Unit 200", 
-                    "Hollywood", 
-                    "Los Angeles, CA 90028"
-                ], 
-                "geo_accuracy": 9.5, 
-                "neighborhoods": [
-                    "Hollywood"
-                ], 
-                "postal_code": "90028", 
-                "country_code": "US", 
-                "address": [
-                    "1600 N Vine St", 
-                    "Unit 200"
-                ], 
-                "coordinate": {
-                    "latitude": 34.1000943, 
-                    "longitude": -118.3264326
                 }, 
                 "state_code": "CA"
             }
