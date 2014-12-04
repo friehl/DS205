@@ -3,21 +3,23 @@ from pymongo import MongoClient
 from glob import glob
 import os
 import ConfigParser
+from boto.s3.connection import S3Connection
+import argparse
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.abspath('.')
 DATA_DIR = os.path.join(BASE_DIR, 'Dataset')
 
-def main():
-	Config = ConfigParser.ConfigParser()
-	Config.read('ec2.conf')
-	url = Config.get('ec2_instance', 'url', 0)
-	client = MongoClient(url, 27017)
-	db = client.yelp
-	collection = db.yelp_data
+def get_data_from_s3():
+	conn = S3Connection()
+	b = conn.get_bucket('ds205-yelpdata')
+	for f in b.list():
+		key_string = str(f.key)
+    	if not os.path.exists(os.path.join(DATA_DIR, key_string)):
+    		f.get_contents_to_filename(os.path.join(DATA_DIR, key_string))
 
-	for filename in glob(DATA_DIR + '/*.json'):
-		f = open(filename, 'r')
-		for line in f.read().split('\n'):
+def load_data_by_line(filename, collection):
+	with open(filename, 'r') as f:
+		for line in f:
 			if line:
 				try:
 					line_json = json.loads(line)
@@ -27,13 +29,53 @@ def main():
 				else:
 					postid = collection.insert(line_json)
 					print 'inserted with id: ', postid 
-		f.close()
+	f.close()
+
+def load_data_lst(filename, collection):
+	with open(filename, 'rU') as f:
+		data = f
+		for line in data:
+			if line[0] == '[':
+				line = line[1:]
+			if line[-2] == ',':
+				line = line[:-2]
+			if line[-1] == ']':
+				line = line[:-1]
+			if line:
+				try:
+					line_json = json.loads(line)
+				except (ValueError, KeyError, TypeError) as e:
+					print e
+					pass
+				else:
+					postid = collection.insert(line_json)
+					print 'inserted with id: ', postid 
+	f.close()
+
+def main():
+	parser = argparse.ArgumentParser(description='input data for mongo upload')
+	parser.add_argument('--datafile', default='default', help='filename for dataupload')
+	args = parser.parse_args()
+	df = args.datafile
+	Config = ConfigParser.ConfigParser()
+	Config.read('yelp.conf')
+	url = Config.get('ec2_instance', 'url', 0)
+
+	# set to true for testing
+	dev = True
+	if dev:
+		client = MongoClient(url, 27017)
+	else:
+		client = MongoClient('localhost', 27017)
+	db = client.yelp
+	collection = db.yelp_data
+
+	if df == 'default':
+		get_data_from_s3()
+		for filename in glob(DATA_DIR + '/*.json'):
+			load_data_by_line(filename, collection)
+	else:
+		load_data_lst(df, collection)
 	
 if __name__ == '__main__':
 	main()
-
-	'''
-	with open(...) as f:
-    for line in f:
-        <do something with line>
-        '''
