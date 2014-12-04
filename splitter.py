@@ -31,3 +31,9 @@ def main():
 	
 if __name__ == '__main__':
 	main()
+
+	'''
+	with open(...) as f:
+    for line in f:
+        <do something with line>
+        '''

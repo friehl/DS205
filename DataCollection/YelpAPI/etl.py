@@ -7,6 +7,7 @@ from pymongo import MongoClient
 # clean to only get fields in yelp dataset challenge
 # Upload to Mongo and check for duplicates
 
+BASE_DIR = os.path.abspath('.')
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, 'api_output')
 URL_DIR = os.path.join(BASE_DIR, 'url_output')
@@ -79,6 +80,7 @@ class BusinessLoader:
 				fout.write(i+'\n')
 		fout.close()
 
+# Take path to yelp API json data as command line argument
 def main():
 	BusinessLoader()
 	

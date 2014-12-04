@@ -4,7 +4,7 @@ except ImportError:
     from distuils.core import setup
 
 with open('requirements.txt') as f:
-    requirments = f.readlines()
+    requirements = f.readlines()
 
 setup(
     name =  'NAME',,
@@ -12,7 +12,7 @@ setup(
     url = 'https://github.com/friehl/NAME',
     email ='fletcher.riehl@gmail.com',
     version =  '0.1',
-    install_requires = requirments,
+    install_requires = requirements,
     packages = ['NAME']
     scripts: []
 }
