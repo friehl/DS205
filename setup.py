@@ -7,13 +7,13 @@ with open('requirements.txt') as f:
     requirements = f.readlines()
 
 setup(
-    name =  'NAME',,
+    name =  'Yelp',
     description = 'A project that does things',
     url = 'https://github.com/friehl/NAME',
-    email ='fletcher.riehl@gmail.com',
+    author_email ='fletcher.riehl@gmail.com',
     version =  '0.1',
     install_requires = requirements,
-    packages = ['NAME']
-    scripts: []
-}
+    packages = ['Yelp'],
+    scripts = []
+)
     
