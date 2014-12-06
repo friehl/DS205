@@ -12,10 +12,13 @@ DATA_DIR = os.path.join(BASE_DIR, 'Dataset')
 def get_data_from_s3():
 	conn = S3Connection()
 	b = conn.get_bucket('ds205-yelpdata')
+	files_to_add = []
 	for f in b.list():
 		key_string = str(f.key)
-    	if not os.path.exists(os.path.join(DATA_DIR, key_string)):
-    		f.get_contents_to_filename(os.path.join(DATA_DIR, key_string))
+		if not os.path.exists(os.path.join(DATA_DIR, key_string)):
+			f.get_contents_to_filename(os.path.join(DATA_DIR, key_string))
+			files_to_add.append(key_string)
+	return files_to_add
 
 def load_data_by_line(filename, collection):
 	with open(filename, 'r') as f:
@@ -64,16 +67,18 @@ def main():
 	# set to true for testing
 	dev = True
 	if dev:
-		client = MongoClient(url, 27017)
-	else:
 		client = MongoClient('localhost', 27017)
+	else:
+		client = MongoClient(url, 27017)
 	db = client.yelp
 	collection = db.yelp_data
 
 	if df == 'default':
-		get_data_from_s3()
+		files_to_add = get_data_from_s3()
 		for filename in glob(DATA_DIR + '/*.json'):
-			load_data_by_line(filename, collection)
+			if filename.split('/')[-1] in files_to_add:
+				print 'loading %s' % filename.split('/')[-1]
+				load_data_by_line(filename, collection)
 	else:
 		load_data_lst(df, collection)
 	
