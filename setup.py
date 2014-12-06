@@ -1,7 +1,7 @@
 try:
     from setuptools import setup
 except ImportError:
-    from distuils.core import setup
+    from distutils.core import setup
 
 with open('requirements.txt') as f:
     requirements = f.readlines()
@@ -16,4 +16,3 @@ setup(
     packages = ['Yelp'],
     scripts = []
 )
-    
