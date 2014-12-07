@@ -22,7 +22,7 @@ def get_urls():
  
 class YelpSkraper(scrapy.Spider):
     name = 'yelp_review_skrape'
-    start_urls = ['http://www.yelp.com/biz/the-burger-dive-billings']
+    start_urls = get_urls()
     
     def parse(self, response):
         requests = []

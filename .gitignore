@@ -7,7 +7,12 @@
 *.xlsx
 *.boto
 *.conf
-.Dataset/*
+.Dataset/*.json
+.Dataset/archive/*.json
+.Dataset/archive/*.txt
+
+.url_output/archive/*.json
+.url_output/archive/*.txt
 
 src/
 venv/*

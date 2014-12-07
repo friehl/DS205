@@ -27,14 +27,22 @@ def put_in_s3(fname, s3name, cur_dir=BASE_DIR):
     k = Key(b)
     k.key = s3name
     fname = os.path.join(cur_dir, fname)
-    k.set_contents_from_filename(fname)
+    try:
+        k.set_contents_from_filename(fname)
+    except IOError as e:
+        print 'error ', e
+        pass
 
 def archive_file(fname, cur_dir=BASE_DIR):
     fname = os.path.join(cur_dir, fname)
     archive_dir = get_archive_dir(cur_dir)
-    os.rename(fname, os.path.join(archive_dir, fname.split('/')[-1]))
-    print 'archived %s' % fname
-
+    try:
+        os.rename(fname, os.path.join(archive_dir, fname.split('/')[-1]))
+        print 'archived %s' % fname
+    except OSError as e:
+        print 'error ', e
+        pass
+    
 def archive_api_output(foldername):
     floc = os.path.join(BASE_DIR, foldername)
     print floc
@@ -60,7 +68,7 @@ def main():
     archive_file('urls.txt', 'url_output')
     print 'uploading business json'
     for filename in glob(os.path.join(BASE_DIR, 'api_output') + '/*.json'):
-        put_in_s3(filename, filename, 'api_output')
+        put_in_s3(filename.split('/')[-1], filename.split('/')[-1], 'api_output')
     print 'archiving api_output'
     archive_api_output('api_output')
 
