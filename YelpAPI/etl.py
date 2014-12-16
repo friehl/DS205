@@ -15,6 +15,7 @@ class BusinessLoader:
         if self.dev:
             self.client = MongoClient('localhost', 27017)
         else:
+            # include yelp.conf file
             self.url = self.read_config()
             self.client = MongoClient(self.url, 27017)
         self.db = self.client.yelp
@@ -37,7 +38,7 @@ class BusinessLoader:
             return data
 
     def load_data(self, dct):
-        # Need to check for dupes
+        '''Checks for duplicate ids and uploads unique entries to MongoDB'''
         dupe = self.collection.find_one({'id': dct['id']})
         #print dupe
         if dupe == None:
@@ -51,10 +52,11 @@ class BusinessLoader:
         try:
             return dct[key]
         except KeyError as e:
-            print 'Key Error: %s' % e 
+            print 'Key Error: %s' % e
             return ''
 
     def clean_data(self):
+        '''cleans raw yelp api data to match data from yelp dataset data'''
         for filename in glob(DATA_DIR + '/*.json'):
             data = self.get_json(filename)
             print filename
@@ -78,7 +80,7 @@ class BusinessLoader:
                     'url': self.get_val(i, 'url'),
                     'name': self.get_val(i, 'name')
                 }
-            
+
                 self.load_data(biz)
 
     def output_urls(self):
@@ -90,6 +92,6 @@ class BusinessLoader:
 # Take path to yelp API json data as command line argument
 def main():
     BusinessLoader()
-    
+
 if __name__ == '__main__':
     main()

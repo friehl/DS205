@@ -8,6 +8,7 @@ BASE_DIR = os.path.abspath('.')
 DATA_DIR = os.path.join(BASE_DIR, 'Dataset')
 
 def load_data_lst(filename, collection):
+    '''Loads data from scrapy spider, lines are string lists'''
     with open(filename, 'rU') as f:
         data = f
         for line in data:
@@ -25,7 +26,7 @@ def load_data_lst(filename, collection):
                     pass
                 else:
                     postid = collection.insert(line_json)
-                    print 'inserted with id: ', postid 
+                    print 'inserted with id: ', postid
     f.close()
 
 def main():
@@ -34,6 +35,7 @@ def main():
     url = Config.get('ec2_instance', 'url', 0)
 
     # set to true for testing
+    # otherwise, make sure to include ec2_instance.conf file
     dev = True
     if dev:
         client = MongoClient('localhost', 27017)
@@ -43,6 +45,6 @@ def main():
     collection = db.yelp_data
 
     load_data_lst('output.json', collection)
-    
+
 if __name__ == '__main__':
     main()

@@ -42,7 +42,7 @@ def request(host, path, url_params=None):
     token = oauth2.Token(TOKEN, TOKEN_SECRET)
     oauth_request.sign_request(oauth2.SignatureMethod_HMAC_SHA1(), consumer, token)
     signed_url = oauth_request.to_url()
-    
+
     print 'Querying {0} ...'.format(url)
 
     conn = urllib2.urlopen(signed_url, None)
@@ -54,6 +54,8 @@ def request(host, path, url_params=None):
     return response
 
 def query_api(zipcode, offset):
+    # params set to restaurants, but can change/remove
+    # to include other businesses
     url_params = {
         'category': 'restaurants',
         'location': zipcode,
@@ -69,6 +71,8 @@ def main():
     f = open(args.zipcodefile)
 
     zips = [line for line in f]
+    # loop through zip codes and pull top 100 results
+    # offset
     for zipcode in zips:
         zipcode = zipcode.replace('\n', '')
 
@@ -88,10 +92,11 @@ def main():
                     for i in output['businesses']:
                             count += 1
                             print i['name']
+                    # update offset to with number of businesses pulled
                     offset = count
                 else:
                     get_more = False
-                        
+
             except urllib2.HTTPError as error:
                 get_more = False
                 count = 0
@@ -99,6 +104,6 @@ def main():
                 print error
 
             print 'Retrieved %s businesses from zipcode %s' %(count, zipcode)
-        
+
 if __name__ == '__main__':
     main()
